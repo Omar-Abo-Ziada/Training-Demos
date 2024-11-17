@@ -1,0 +1,32 @@
+21:15:46 [INF] test info Application: MyApp, Environment: Development
+21:15:46 [INF] test info Application: MyApp, Environment: Development
+21:15:46 [INF] test info Application: MyApp, Environment: Development
+21:15:46 [INF] test info Application: MyApp, Environment: Development
+21:23:38 [INF] test info 1 Application: MyApp, Environment: Development, Machine: OMAR_AHMED, ThreadId: 1
+21:23:38 [FTL] test critical 2 Application: MyApp, Environment: Development, Machine: OMAR_AHMED, ThreadId: 1
+21:23:38 [WRN] test warning 3 Application: MyApp, Environment: Development, Machine: OMAR_AHMED, ThreadId: 1
+21:23:38 [ERR] test errpr 4 Application: MyApp, Environment: Development, Machine: OMAR_AHMED, ThreadId: 1
+21:24:46 [INF] test info 1 Application: MyApp, Environment: Development, Machine: OMAR_AHMED, ThreadId: 1
+21:24:46 [FTL] test critical 2 Application: MyApp, Environment: Development, Machine: OMAR_AHMED, ThreadId: 1
+21:24:46 [WRN] test warning 3 Application: MyApp, Environment: Development, Machine: OMAR_AHMED, ThreadId: 1
+21:24:46 [ERR] test errpr 4 Application: MyApp, Environment: Development, Machine: OMAR_AHMED, ThreadId: 1
+21:25:57 [INF] test info 1 Application: MyApp, Environment: Development, Machine: OMAR_AHMED, ThreadId: 1
+21:25:57 [FTL] test critical 2 Application: MyApp, Environment: Development, Machine: OMAR_AHMED, ThreadId: 1
+21:25:57 [WRN] test warning 3 Application: MyApp, Environment: Development, Machine: OMAR_AHMED, ThreadId: 1
+21:25:57 [ERR] test errpr 4 Application: MyApp, Environment: Development, Machine: OMAR_AHMED, ThreadId: 1
+21:36:02 [INF] test info 1 Application: MyApp, Environment: Development, Machine: OMAR_AHMED, ThreadId: 1
+21:36:02 [FTL] test critical 2 Application: MyApp, Environment: Development, Machine: OMAR_AHMED, ThreadId: 1
+21:36:02 [WRN] test warning 3 Application: MyApp, Environment: Development, Machine: OMAR_AHMED, ThreadId: 1
+21:36:02 [ERR] test errpr 4 Application: MyApp, Environment: Development, Machine: OMAR_AHMED, ThreadId: 1
+21:36:32 [INF] test info 1 Application: MyApp, Environment: Development, Machine: OMAR_AHMED, ThreadId: 1
+21:36:32 [FTL] test critical 2 Application: MyApp, Environment: Development, Machine: OMAR_AHMED, ThreadId: 1
+21:36:32 [WRN] test warning 3 Application: MyApp, Environment: Development, Machine: OMAR_AHMED, ThreadId: 1
+21:36:32 [ERR] test errpr 4 Application: MyApp, Environment: Development, Machine: OMAR_AHMED, ThreadId: 1
+21:38:24 [INF] test info 1 Application: MyApp, Environment: Development, Machine: OMAR_AHMED, ThreadId: 1
+21:38:25 [FTL] test critical 2 Application: MyApp, Environment: Development, Machine: OMAR_AHMED, ThreadId: 1
+21:38:25 [WRN] test warning 3 Application: MyApp, Environment: Development, Machine: OMAR_AHMED, ThreadId: 1
+21:38:25 [ERR] test errpr 4 Application: MyApp, Environment: Development, Machine: OMAR_AHMED, ThreadId: 1
+21:40:19 [INF] test info 1 Application: MyApp, Environment: Development, Machine: OMAR_AHMED, ThreadId: 1
+21:40:19 [FTL] test critical 2 Application: MyApp, Environment: Development, Machine: OMAR_AHMED, ThreadId: 1
+21:40:19 [WRN] test warning 3 Application: MyApp, Environment: Development, Machine: OMAR_AHMED, ThreadId: 1
+21:40:19 [ERR] test errpr 4 Application: MyApp, Environment: Development, Machine: OMAR_AHMED, ThreadId: 1

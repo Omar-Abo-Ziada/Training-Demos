@@ -1,0 +1,41 @@
+D:\Training Demos\Loggin Console App\bin\Debug\net8.0\Loggin Console App.exe
+D:\Training Demos\Loggin Console App\bin\Debug\net8.0\Loggin Console App.deps.json
+D:\Training Demos\Loggin Console App\bin\Debug\net8.0\Loggin Console App.runtimeconfig.json
+D:\Training Demos\Loggin Console App\bin\Debug\net8.0\Loggin Console App.dll
+D:\Training Demos\Loggin Console App\bin\Debug\net8.0\Loggin Console App.pdb
+D:\Training Demos\Loggin Console App\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Training Demos\Loggin Console App\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Training Demos\Loggin Console App\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Training Demos\Loggin Console App\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Training Demos\Loggin Console App\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Training Demos\Loggin Console App\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Training Demos\Loggin Console App\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Training Demos\Loggin Console App\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+D:\Training Demos\Loggin Console App\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+D:\Training Demos\Loggin Console App\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Training Demos\Loggin Console App\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Training Demos\Loggin Console App\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Training Demos\Loggin Console App\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Training Demos\Loggin Console App\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Training Demos\Loggin Console App\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Training Demos\Loggin Console App\bin\Debug\net8.0\System.Text.Json.dll
+D:\Training Demos\Loggin Console App\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Training Demos\Loggin Console App\obj\Debug\net8.0\Loggin Console App.csproj.AssemblyReference.cache
+D:\Training Demos\Loggin Console App\obj\Debug\net8.0\Loggin Console App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training Demos\Loggin Console App\obj\Debug\net8.0\Loggin Console App.AssemblyInfoInputs.cache
+D:\Training Demos\Loggin Console App\obj\Debug\net8.0\Loggin Console App.AssemblyInfo.cs
+D:\Training Demos\Loggin Console App\obj\Debug\net8.0\Loggin Console App.csproj.CoreCompileInputs.cache
+D:\Training Demos\Loggin Console App\obj\Debug\net8.0\Loggin C.ADA9011B.Up2Date
+D:\Training Demos\Loggin Console App\obj\Debug\net8.0\Loggin Console App.dll
+D:\Training Demos\Loggin Console App\obj\Debug\net8.0\refint\Loggin Console App.dll
+D:\Training Demos\Loggin Console App\obj\Debug\net8.0\Loggin Console App.pdb
+D:\Training Demos\Loggin Console App\obj\Debug\net8.0\Loggin Console App.genruntimeconfig.cache
+D:\Training Demos\Loggin Console App\obj\Debug\net8.0\ref\Loggin Console App.dll
+D:\Training Demos\Loggin Console App\bin\Debug\net8.0\Serilog.dll
+D:\Training Demos\Loggin Console App\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\Training Demos\Loggin Console App\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\Training Demos\Loggin Console App\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\Training Demos\Loggin Console App\bin\Debug\net8.0\Serilog.Enrichers.Environment.dll
+D:\Training Demos\Loggin Console App\bin\Debug\net8.0\Serilog.Enrichers.Thread.dll
+D:\Training Demos\Loggin Console App\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\Training Demos\Loggin Console App\bin\Debug\net8.0\Serilog.Formatting.Json.Rendered.dll
